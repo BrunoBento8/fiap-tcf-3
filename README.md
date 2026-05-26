@@ -75,6 +75,9 @@ make clean      # Limpar artefatos
 
 - Bruno Bento
 - Raquel Miranda
+- Carlos Henrique
+- Gabriel Leite
+- Victor Hugo
 
 ## Licença
 
